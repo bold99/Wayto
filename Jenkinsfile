@@ -1,0 +1,5 @@
+pipelin{
+	agent{
+		label any
+	}
+}
